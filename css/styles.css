@@ -154,7 +154,12 @@ h6 {
   .jumbotron.homepage {
     padding-top:200px;
     background: url("../img/index/back.jpg") no-repeat scroll 100%;
+    
   }
+
+.jumbotron.homepage h1, .jumbotron.homepage p{
+  text-shadow: 1px 1px 10px #000000;
+}
 
   .jumbotron .nav-tabs {
     margin-bottom: 0;
