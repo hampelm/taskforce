@@ -27,10 +27,19 @@ li {
 	margin-bottom:0;
 }
 
+.highlight {
+  background: #fff04c;
+}
+
+/* Headings .................................................................*/
+.navbar-inner {
+  background: #fff;
+}
+
 /* Headings .................................................................*/
 
 h1, h2, h3, h4, h5, h6 {
-	font-family:Lato, sans-serif;
+	font-family:'Lucida Grande', sans-serif;
 	font-weight:normal;
 }
 
@@ -127,11 +136,12 @@ h6 {
 	margin-bottom:0.25em;
 }
 
+
+
 /* Additional CSS from anderoy ================================ */
 
 .box {
   border:5px solid #eee;
-  border-radius:10px;
   min-height:100px;
   padding:0px 10px;
 }
@@ -154,7 +164,7 @@ h6 {
   .jumbotron.homepage {
     padding-top:200px;
     background: url("../img/index/back.jpg") no-repeat scroll 100%;
-    
+
   }
 
 .jumbotron.homepage h1, .jumbotron.homepage p{
@@ -413,19 +423,3 @@ section {
     margin-bottom: 9px;
   }
 }
-
-
-  /* Downsize the jumbotrons
-  .jumbotron h1 {
-    font-size: 45px;
-  }
-  .jumbotron p,
-  .jumbotron .btn {
-    font-size: 18px;
-  }
-  .jumbotron .btn {
-    display: block;
-    margin: 0 auto;
-  }
-*/
-
