@@ -152,23 +152,20 @@ h6 {
   }
 
 .jumbotron {
-  background: url("../img/bg-dfc.png") no-repeat scroll 100%;
   height: auto;
   vertical-align: middle;
-  color: white;
   padding: 42px 0 0 0;
   padding-bottom:0px;
   margin-bottom:30px;
 }
 
   .jumbotron.homepage {
-    padding-top:200px;
-    background: url("../img/index/back.jpg") no-repeat scroll 100%;
-
+    padding:70px 0 70px;
+    background: url("../img/index/back.png") no-repeat left top;
+    background-size: 100%;
   }
 
 .jumbotron.homepage h1, .jumbotron.homepage p{
-  text-shadow: 1px 1px 10px #000000;
 }
 
   .jumbotron .nav-tabs {
