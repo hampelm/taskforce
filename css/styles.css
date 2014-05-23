@@ -39,7 +39,7 @@ li {
 /* Headings .................................................................*/
 
 h1, h2, h3, h4, h5, h6 {
-	font-family:'Lucida Grande', sans-serif;
+	font-family:Montserrat, Helvetica, sans-serif;
 	font-weight:normal;
 }
 
@@ -154,16 +154,42 @@ h6 {
 .jumbotron {
   height: auto;
   vertical-align: middle;
-  padding: 42px 0 0 0;
+  padding: 0;
   padding-bottom:0px;
   margin-bottom:30px;
+  background-size: 100%;
 }
+
 
   .jumbotron.homepage {
     padding:0px 0 70px;
     background: url("../img/index/back.png") no-repeat left top;
+  }
+
+  .jumbotron .dots {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  /* CHAPTER 1 */
+  .introduction {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
     background-size: 100%;
   }
+
+  .introduction .dots {
+    background: url("../img/dots/pink.png") repeat-y -350px top;
+  }
+
+  .introduction h1,
+  .introduction p.lead {
+    display: inline-block;
+    padding: 4px;
+    background: #d42566;
+    color: #fff;
+  }
+
+
 
 .jumbotron.homepage h1, .jumbotron.homepage p{
 }
