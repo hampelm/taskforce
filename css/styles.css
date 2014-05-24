@@ -157,13 +157,25 @@ h6 {
   padding: 0;
   padding-bottom:0px;
   margin-bottom:30px;
-  background-size: 100%;
 }
 
+  .cover {
+    padding:100px 50px 100px;
+    background: url("../img/backgrounds/cover.jpg") no-repeat left center;
+    background-size: 100%;
+  }
+    .cover h1+h1 {
+      text-align: right;
+      padding-top: 100px;
+    }
+
+    .cover .highlight {
+    }
 
   .jumbotron.homepage {
-    padding:0px 0 70px;
+    padding: 40px 0 40px;
     background: url("../img/index/back.png") no-repeat left top;
+    background-size: 100%;
   }
 
   .jumbotron .dots {
