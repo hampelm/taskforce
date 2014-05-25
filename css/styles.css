@@ -152,7 +152,16 @@ h6 {
     padding-bottom: 40px;
   }
 
-  /* CHAPTER 1 */
+  /* GENERIC */
+  .title h1,
+  .title p.lead {
+    display: inline-block;
+    padding: 4px;
+    background: #d42566;
+    color: #fff;
+  }
+
+  /* CHAPTER 1: Introduction; */
   .introduction {
     background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
     background-size: 100%;
@@ -164,10 +173,22 @@ h6 {
 
   .introduction h1,
   .introduction p.lead {
-    display: inline-block;
-    padding: 4px;
     background: #d42566;
-    color: #fff;
+  }
+
+  /* CHAPTER 2: Introduction; */
+  .context {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .context .dots {
+    background: url("../img/dots/redpink.png") repeat-y -350px top;
+  }
+
+  .context h1,
+  .context p.lead {
+    background: #9b2449;
   }
 
 
