@@ -190,6 +190,7 @@ h6 {
     background: #9b2449;
   }
 
+
   /* CHAPTER 5: Intervention; */
   .intervention {
     background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
@@ -204,6 +205,39 @@ h6 {
   .intervention p.lead {
     background: #9b2449;
   }
+
+
+  /* CHAPTER 8: Leaders */
+  .leaders {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .leaders .dots {
+    background: url("../img/dots/lightblue.png") repeat-y -350px top;
+  }
+
+  .leaders h1,
+  .leaders p.lead {
+    background: #00b4de;
+  }
+
+
+  /* CHAPTER 9: Funding */
+  .funding {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .funding .dots {
+    background: url("../img/dots/darkblue.png") repeat-y -350px top;
+  }
+
+  .funding h1,
+  .funding p.lead {
+    background: #006aa4;
+  }
+
 
   /* CHAPTER 10: Vision; */
   .vision {
