@@ -175,6 +175,7 @@ h6 {
     background: #d42566;
   }
 
+
   /* CHAPTER 2: Introduction; */
   .context {
     background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
@@ -188,6 +189,22 @@ h6 {
   .context h1,
   .context p.lead {
     background: #9b2449;
+  }
+
+
+  /* CHAPTER 2: Introduction; */
+  .know {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .know .dots {
+    background: url("../img/dots/red.png") repeat-y -350px top;
+  }
+
+  .know h1,
+  .know p.lead {
+    background: #b2262e;
   }
 
 
