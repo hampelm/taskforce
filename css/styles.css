@@ -191,6 +191,21 @@ h6 {
     background: #9b2449;
   }
 
+  /* CHAPTER 5: Intervention; */
+  .context {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .intervention .dots {
+    background: url("../img/dots/yellow.png") repeat-y -350px top;
+  }
+
+  .context h1,
+  .context p.lead {
+    background: #9b2449;
+  }
+
 
 
 .jumbotron.homepage h1, .jumbotron.homepage p{
