@@ -207,6 +207,22 @@ h6 {
   }
 
 
+  /* CHAPTER 8: Future */
+  .future {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .future .dots {
+    background: url("../img/dots/green.png") repeat-y -350px top;
+  }
+
+  .future h1,
+  .future p.lead {
+    background: #45ab4c;
+  }
+
+
   /* CHAPTER 8: Leaders */
   .leaders {
     background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
