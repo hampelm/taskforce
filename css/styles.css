@@ -192,7 +192,7 @@ h6 {
   }
 
 
-  /* CHAPTER 2: Introduction; */
+  /* CHAPTER 3:; Know */
   .know {
     background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
     background-size: 100%;
@@ -205,6 +205,22 @@ h6 {
   .know h1,
   .know p.lead {
     background: #b2262e;
+  }
+
+
+  /* CHAPTER 4: Guide; */
+  .guide {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .guide .dots {
+    background: url("../img/dots/orange.png") repeat-y -350px top;
+  }
+
+  .guide h1,
+  .guide p.lead {
+    background: #e27135;
   }
 
 
@@ -225,7 +241,24 @@ h6 {
   }
 
 
-  /* CHAPTER 8: Future */
+  /* CHAPTER 5: Remove; */
+  .remove {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .remove .dots {
+    background: url("../img/dots/limegreen.png") repeat-y -350px top;
+  }
+
+  .remove h1,
+  .remove p.lead {
+    background: #aacb47;
+    color: #fff;
+  }
+
+
+  /* CHAPTER 7: Future */
   .future {
     background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
     background-size: 100%;
@@ -288,6 +321,21 @@ h6 {
     background: #4e528f;
   }
 
+
+  /* CHAPTER 11: Summary; */
+  .summary {
+    background: url("../img/backgrounds/introduction.jpg") no-repeat left top;
+    background-size: 100%;
+  }
+
+  .summary .dots {
+    background: url("../img/dots/black.png") repeat-y -350px top;
+  }
+
+  .summary h1,
+  .summary p.lead {
+    background: #000;
+  }
 
 
 .jumbotron.homepage h1, .jumbotron.homepage p{
