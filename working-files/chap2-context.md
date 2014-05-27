@@ -41,7 +41,7 @@ Motor City Mapping captures and curates data, but the most important element of 
 The Detroit Land Bank Authority should expand and maintain
 detroitlandbank.org to include real-time information in the following areas:
 
-* Links to the electronic version of this Blight Removal Task Force Plan (located at timetoendblight.com)
+* Links to the electronic version of this Blight Removal Task Force Plan (located at timetoendblight.org)
 List of upcoming neighborhood community presentations (see Neighborhood Points of Contact section)
 * Links to Motor City Mapping Information Portal (see Information Portal section)
 * Nuisance abatement updates
