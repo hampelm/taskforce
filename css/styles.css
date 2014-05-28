@@ -10,6 +10,12 @@ a {
 	text-decoration: none;
 }
 
+.download-button{
+  font-family: 'Montserrat', Helvetica, sans-serif !important;
+  font-size: 25px;
+  padding: 20px;
+}
+
 	a:hover {
 		text-decoration: none;
 		/*border-bottom: 1px dotted #0066b3; anderoy: no need for this*/
